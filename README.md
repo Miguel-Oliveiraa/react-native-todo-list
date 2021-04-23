@@ -1,5 +1,5 @@
 # TodoList React-Native
-Aplicativo para gerenciar as tarefas diarias, desenvolvido em React JS. 📱 🗒️
+Aplicativo para gerenciar as tarefas diarias, desenvolvido em React JS. :iphone: :ledger:
 
 <h1 align='left'>
   <img src='./Modelo_LightMode.jpg' height=425></img>
