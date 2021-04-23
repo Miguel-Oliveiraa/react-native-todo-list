@@ -1,6 +1,6 @@
 # TodoList-reactjs
 
-<h1 style="font-family: roboto justify-content: space-around" align='center'>
+<h1 style="font-family: roboto justify-content: space-between" align='center'>
   <img src='./Modelo_LightMode.jpg' height=425></img>
   <img src='./Modelo_DarkMode.jpg' height=425></img>
 </h1>
